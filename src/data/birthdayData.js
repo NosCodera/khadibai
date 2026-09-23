@@ -99,12 +99,12 @@ const birthdayData = {
   quiz: [
     {
       question: "Who is more likely to start a completely random conversation?",
-      options: ["Me", "Khadija", "Both of us", "Neither"],
+      options: ["Me", "You", "Both of us", "Neither"],
       answer: 2,
     },
     {
       question: "Who remembers the smallest details?",
-      options: ["Me", "Khadija", "Google", "Nobody"],
+      options: ["Me", "You", "Google", "Nobody"],
       answer: 1,
     },
     {
@@ -130,12 +130,13 @@ const birthdayData = {
   ],
 
   letter: {
-    greeting: "Dear Khadija,",
+    greeting: "Khadija",
     paragraphs: [
       "Some people come into our lives and quietly become a part of our favourite memories.",
       "I hope this birthday brings you the kind of happiness that stays long after the candles are gone.",
       "No matter where life takes us, I hope there will always be more conversations, more laughter and more little moments worth remembering.",
       "Happy Birthday. You deserve a beautiful year ahead.",
+      "So even if our paths never cross again, I hope you always carry this little certainty with you — that long after I'm no longer here to say it myself, somewhere, somehow, my wish for your happiness will still remain.",
     ],
     signature: "— With lots of love",
   },
